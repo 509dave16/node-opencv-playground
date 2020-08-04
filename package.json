@@ -1,0 +1,16 @@
+{
+  "name": "opencv-playground",
+  "version": "1.0.0",
+  "description": "Playground for OpenCV in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Fall",
+  "license": "ISC",
+  "dependencies": {
+    "opencv4nodejs": "^5.6.0",
+    "piexifjs": "^1.0.6",
+    "tesseract.js": "^2.1.1"
+  }
+}
